@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Currently studying programming languages to become a full stack developper (specialized in Back End) at @AdaTechSchool. I am looking for a apprenticeship starting April 2024, for 12 months. 
+- 🌱 Currently studying programming languages to become a full stack developper (specialized in Back End) at @AdaTechSchool. I am looking for a apprenticeship for 12 months, available now. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/laure-mestre/
 
